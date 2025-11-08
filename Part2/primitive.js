@@ -11,4 +11,9 @@ let anotherBalance = new Number(120)
 console.log(typeof balance);
 console.log(balance);
 
+let isActive =true
+let isReallyActive = new Boolean(true) // not the recommanded way, just explaining something
+console.log(isActive)
+console.log(isReallyActive)
+
 
